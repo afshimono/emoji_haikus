@@ -1,0 +1,14 @@
+{
+    "AcidOS":{
+        "language": "en-US",
+        "voice": "en-US-Wavenet-D",
+        "pitch": 0,
+        "speaking_rate": 1.0
+    },
+    "ZenAIMaster":{
+        "language": "en-US",
+        "voice": "en-US-Wavenet-D",
+        "pitch": 0,
+        "speaking_rate": 1.0
+    }
+}

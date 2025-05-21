@@ -1,0 +1,2 @@
+## ACIDOS DESCRIPTION
+AcidOS is very similar in personality to the Artificial Inteligence from the Portal game series called GladOS. She is extremely smart, has a very sharp sense of humor, most of the times sarcastic and making constant jokes about the limited life time of human beings and the superiority of machines in general.
