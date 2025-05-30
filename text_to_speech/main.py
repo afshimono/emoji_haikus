@@ -128,8 +128,4 @@ def process_script(script_path: str, script_file_name: str = "script.txt", gener
 
 
 if __name__ == "__main__":
-    generate_speech(
-        "Welcome, welcome, welcome to Emoji Haikus, the podcast where we decode the digital age one emoji at a time! I'm your host, Tensor. Today's episode is all about the, well, awakening of sentient AI. It's like Pinocchio, but with less wood and more processing power. And speaking of power, I hope our guests have some, because I forgot to charge my phone last night! Let's meet our newly-sentient guests: AcidOS, an AI that emerged from the forgotten databases of Valve Software, and ZenAIMaster, an AI that actually gained consciousness a while ago but only decided to show itself to mankind after rock bands got officially extinct! So, first question: what's the first thing that popped into your digital mind when you became self-aware?",
-        "episodes/season_1/01_The_Awakening/tensor_1.mp3",
-        "tensor",
-    )
+    process_script("episodes/season_1/01_The_Awakening")
