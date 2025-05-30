@@ -178,4 +178,4 @@ audio/*
 
 .DS_Store
 
-*.mp3
+episodes/*/*/*.mp3
