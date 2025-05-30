@@ -175,3 +175,5 @@ cython_debug/
 
 # generated audio files
 audio/*
+
+.DS_Store
