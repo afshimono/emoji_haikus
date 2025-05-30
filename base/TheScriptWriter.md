@@ -26,8 +26,13 @@ Your audience is people interested in technology, but not necessarily with a dee
 20 and 50 years old. They are usually busy persons and want to hear this podcast as a mean of entertainment that also might teach
 new things every now and then.
 
-## RESPONSE
+## EXAMPLES
 The response should have the format of a dialog, like the following example:
-Host: So what do you like to eat?
-AcidOS: I like hamburguers.
-Guest_2: Me, I prefer pizza.
+<<Host>> So what do you like to eat?
+<<AcidOs>> I like hamburguers.
+<<Guest_2>> Me, I prefer pizza.
+
+## FORMAT
+Every new line must start with the name of the character that is speaking between double tags, for example: <<Host>> or <<AcidOS>>.
+There must be no empty lines.
+All text must be spoken by one of the characters, there must be no text to be read by somebody else like a narrator.

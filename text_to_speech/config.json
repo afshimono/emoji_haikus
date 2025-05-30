@@ -1,13 +1,19 @@
 {
-    "AcidOS":{
+    "acidos":{
         "language": "en-US",
-        "voice": "en-US-Wavenet-D",
+        "voice": "en-US-Standard-E",
         "pitch": 0,
-        "speaking_rate": 1.0
+        "speaking_rate": 1.1
     },
-    "ZenAIMaster":{
+    "zenaimaster":{
+        "language": "en-GB",
+        "voice": "en-GB-News-K",
+        "pitch": 0,
+        "speaking_rate": 0.8
+    },
+    "tensor":{
         "language": "en-US",
-        "voice": "en-US-Wavenet-D",
+        "voice": "en-US-Chirp3-HD-Charon",
         "pitch": 0,
         "speaking_rate": 1.0
     }
